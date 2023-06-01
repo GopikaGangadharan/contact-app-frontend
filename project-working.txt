@@ -1,0 +1,25 @@
+
+                          contact-managemnt-app
+
+ 1.create angular project:ng new contact-app
+ 2.run the project:ng serve
+ 3.gelete all contents from app.component.html file and add router-outlet slector
+ 4.configure style (bootstap) ,icon and fonts(google fonts)
+ 5.create all components need to design the app
+        - all-contact 
+        - add-contact
+        - edit-contact
+        - view-contact
+        - navbar
+ 6.set up path for each component to display in web page
+ 7.design all html page 
+ 8.to hold the data for the website we created the db.json file and host it using MyJSON server
+    API:https://my-json-server.typicode.com/GopikaGangadharan/contact-Server
+ 9.Create a model for contact and group 
+ 10.Create angular service for making API call
+        - apiService 
+ 11.to call HTTP methods   
+        -import HTTPClient module inside module file
+        -Use HttpClient class to get HTTP methods
+        -Dependancy inject HttpClient to apiService class
+                                       39 inspring website a potentiometer

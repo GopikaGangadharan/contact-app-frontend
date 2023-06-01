@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cookie&family=Creepster&family=Fredoka+One&family=Kaushan+Script&family=Martian+Mono:wght@300&family=Noto+Sans+Symbols+2&family=Poppins:wght@200&family=Satisfy&family=Teko:wght@500&display=swap');
+
+body{
+    font-family: 'Teko', sans-serif;
+}
